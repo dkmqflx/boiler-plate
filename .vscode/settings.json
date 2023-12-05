@@ -1,0 +1,15 @@
+{
+  "stylelint.enable": true,
+  "stylelint.validate": ["css", "less", "postcss", "javascript", "javascriptreact", "typescript", "typescriptreact"],
+
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+
+  "editor.formatOnSave": true,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  }
+}
