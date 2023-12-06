@@ -13,6 +13,7 @@
     "*.{js,jsx,ts,tsx}": "eslint --fix"
   },
   "dependencies": {
+    "axios": "^1.6.2",
     "next": "13.5.6",
     "postcss-styled-syntax": "^0.5.0",
     "react": "^18",
