@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+# . "$(dirname -- "$0")/_/husky.sh"
+
+# branch="$(git rev-parse --abbrev-ref HEAD)"
+
+# if [ "$branch" = "master" ] || [ "$branch" = "stage" ] || [ "$branch" = "develop" ] ; then
+#   echo "$branch 브랜치에 직접 push 할 수 없습니다."
+#   exit 1
+# fi
